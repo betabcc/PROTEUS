@@ -1,0 +1,11 @@
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\bin\Debug\H16O2.exe.config
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\bin\Debug\H16O2.exe
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\bin\Debug\H16O2.pdb
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\obj\Debug\H16O2.csproj.AssemblyReference.cache
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\obj\Debug\H16O2.csproj.SuggestedBindingRedirects.cache
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\obj\Debug\H16O2.Form1.resources
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\obj\Debug\H16O2.Properties.Resources.resources
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\obj\Debug\H16O2.csproj.GenerateResource.cache
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\obj\Debug\H16O2.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\obj\Debug\H16O2.exe
+C:\Users\BERAT\Documents\PROTEUS\H16O2\H16O2\obj\Debug\H16O2.pdb
